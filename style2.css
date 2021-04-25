@@ -1,3 +1,38 @@
-body {
-	text-align: center;
-	}
+
+html { 
+  background: url("https://64.media.tumblr.com/524446dcb3fe0484213690a9eb2a69e0/42d1cfcf472c642d-d7/s500x750/9f68dfa869b48422d2c131e75d85883808022180.gifv") ; 
+	-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.portfolio
+    {
+      position: absolute;
+      top: 120px;
+      left: 13%;
+      display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  }
+.button {
+  background-color: rgb(255, 84, 138);
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  /*top: calc(50% - XYpx);
+left: calc(50% - XYpx);*/
+
+  position: absolute;
+  top: 80%;
+  left: 66.5%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  /*cursor: pointer;
+  border-radius: 5px;*/
+}
