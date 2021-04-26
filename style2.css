@@ -28,7 +28,7 @@ html {
   /*top: calc(100% - XYpx);
 left: calc(100% - XYpx);*/
 position: absolute;
-  top: 77%; right: 33.5%;
+  top: 80%; right: 33.5%;
   transform: translate(50%,-50%);
   /*bottom: 15%;
   left: 66.5%;
