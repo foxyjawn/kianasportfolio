@@ -46,9 +46,12 @@ body {
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
+  font-family: dapifer, serif;
+  font-weight: 700;
   }
   
  .title {
 	 text-align: center;
 	 color: rgb(255, 84, 138);
+	 font-family: bubblegum-pop-highlight, sans-serif;
 	 }
